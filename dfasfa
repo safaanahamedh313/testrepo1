@@ -1,0 +1,27 @@
+[33mcommit 1fba873e2e6f7540e4549db1b2aae0b275420124[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: safaan0313 <safaanahamedh313@gmail.com>
+Date:   Fri Nov 4 18:55:25 2022 +0530
+
+    basic.java
+
+[1mdiff --git a/basic.java b/basic.java[m
+[1mindex e4e0e28..45e87c7 100644[m
+[1m--- a/basic.java[m
+[1m+++ b/basic.java[m
+[36m@@ -1,10 +1,11 @@[m
+[31m-Public class Basic(){[m
+[32m+[m[32mpublic class Main{[m
+[32m+[m[32mpublic static void main (String args [])[m
+ [m
+[31m-public static void main (args[]){[m
+[32m+[m[32m{[m
+ [m
+ 	int x=123;[m
+ 	int y=124;[m
+ [m
+[31m-	if(x>y){System.out.prinln("iam great"" ""said x");}[m
+[31m-	else   {System.out.println("no iam great");}[m
+[31m-}}[m
+[32m+[m	[32mif(x>y){System.out.println("iam great said x");}[m
+[32m+[m	[32melse   {System.out.println("no iam great");}}[m
+[32m+[m[32m}[m
