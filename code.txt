@@ -8,3 +8,5 @@ second line added to testbranch
 third line added
 
 fourth line added
+
+conflict and resolve
