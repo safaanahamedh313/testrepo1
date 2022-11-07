@@ -12,3 +12,5 @@ fourth line added
 final line
 
 conflict resolve
+conflict and resolve
+
